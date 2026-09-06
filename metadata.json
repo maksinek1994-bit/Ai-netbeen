@@ -1,0 +1,6 @@
+{
+  "name": "NetBeans Studio",
+  "description": "Mobilne środowisko programistyczne (IDE) inspirowane NetBeans ze wsparciem Gemini AI, edytorem kodu, konsolą i asystentem Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
